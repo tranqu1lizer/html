@@ -1,0 +1,10 @@
+body {
+    background: rgb(21,216,255);
+    background: linear-gradient(90deg, rgba(21,216,255,1) 1%, rgba(182,103,177,1) 56%);
+}
+
+#title2{
+    border: 2px solid red;
+    width: 500px;
+    height: 100vh;
+}
